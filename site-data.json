@@ -1,0 +1,324 @@
+{
+  "business": {
+    "name": "Golden's Keys",
+    "shortName": "Golden's Keys",
+    "tagline": "Your Trusted Dallas Locksmith Since 1985",
+    "niche": "Locksmith",
+    "phone": "(214) 324-4747",
+    "address": "10238 Garland Rd, Dallas, TX 75218",
+    "city": "Dallas, TX",
+    "hours": "Mon–Fri: 8:00 AM – 6:00 PM, Sat: 9:00 AM – 4:00 PM, Sun: Closed",
+    "ctaLabel": "Get a Free Estimate",
+    "headerCta": "Call Now"
+  },
+  "seo": {
+    "title": "Golden's Keys | Best Locksmith in Dallas, TX | 24/7 Emergency Service",
+    "description": "Golden's Keys is your trusted locksmith in Dallas, TX. Offering 24/7 emergency lockout service, key duplication, lock repair, and security upgrades. Call (214) 324-4747."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Family-Owned Since 1985",
+      "headline": "Your Trusted Dallas Locksmith – Fast, Reliable, and Affordable",
+      "subheadline": "24/7 emergency lockout service, expert lock repair, and key duplication. Call us anytime for prompt, professional service across Dallas.",
+      "primaryCta": "Call (214) 324-4747",
+      "secondaryCta": "Get a Free Quote"
+    },
+    "stats": [
+      {
+        "value": "40+",
+        "label": "Years of Service"
+      },
+      {
+        "value": "4.7",
+        "label": "Star Rating"
+      },
+      {
+        "value": "500+",
+        "label": "Happy Customers"
+      },
+      {
+        "value": "24/7",
+        "label": "Emergency Support"
+      }
+    ],
+    "featureSections": [
+      {
+        "eyebrow": "Emergency Lockout",
+        "title": "Locked Out? We'll Get You Back Inside Fast",
+        "body": "Whether you're locked out of your home, car, or office, Golden's Keys provides rapid response lockout services across Dallas. Our skilled technicians arrive within 30 minutes, equipped to handle any lock type without damage.",
+        "bullets": [
+          "30-minute average response time",
+          "Non-destructive entry techniques",
+          "All vehicle makes and models covered"
+        ],
+        "reverse": false,
+        "cardLabel": "Peace of Mind",
+        "cardTitle": "24/7 Availability",
+        "cardBody": "Day or night, our team is on standby to help you regain access quickly and safely."
+      },
+      {
+        "eyebrow": "Security Upgrades",
+        "title": "Protect Your Home or Business with High-Security Locks",
+        "body": "Upgrade your property with the latest in lock technology. We install smart locks, deadbolts, and keyless entry systems that provide superior protection against break-ins. Our experts will assess your needs and recommend the best solution.",
+        "bullets": [
+          "Smart lock installation and setup",
+          "High-security deadbolts and padlocks",
+          "Free on-site security assessment"
+        ],
+        "reverse": true,
+        "cardLabel": "Modern Safety",
+        "cardTitle": "Custom Security Plans",
+        "cardBody": "Every property is unique. We tailor our recommendations to fit your lifestyle and budget."
+      }
+    ],
+    "whyTitle": "Why Choose Golden's Keys?",
+    "whyChooseUs": [
+      {
+        "title": "Fast Response Times",
+        "description": "We understand that lock emergencies can't wait. Our technicians are strategically located to reach you quickly, often within 30 minutes."
+      },
+      {
+        "title": "Experienced & Licensed",
+        "body": "With over 40 years in business, our team has the expertise to handle any lock or security issue. We are fully licensed, bonded, and insured."
+      },
+      {
+        "title": "Transparent Pricing",
+        "body": "No hidden fees or surprise charges. We provide upfront estimates before any work begins, ensuring you know exactly what to expect."
+      },
+      {
+        "title": "Customer Satisfaction Guaranteed",
+        "body": "Your safety and satisfaction are our top priorities. We stand behind our work with a 100% satisfaction guarantee on every job."
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I was locked out of my apartment at midnight. Golden's Keys arrived in 20 minutes and had me inside without any damage. Highly recommend!",
+        "author": "Sarah M.",
+        "role": "Deep Ellum Resident"
+      },
+      {
+        "quote": "We needed new locks for our office after a security breach. The team was professional, efficient, and installed high-quality locks that give us peace of mind.",
+        "author": "James T.",
+        "role": "Small Business Owner"
+      },
+      {
+        "quote": "Golden's Keys has been our go-to locksmith for years. They’re always friendly, affordable, and do great work. I wouldn't trust anyone else.",
+        "author": "Linda R.",
+        "role": "Lake Highlands Homeowner"
+      }
+    ],
+    "cta": {
+      "headline": "Ready to Secure Your Property?",
+      "subheadline": "Call us now or fill out our online form for a free, no-obligation quote.",
+      "primaryCta": "Call (214) 324-4747",
+      "secondaryCta": "Request a Quote"
+    }
+  },
+  "servicesPage": {
+    "intro": "Golden's Keys offers a full range of locksmith services in Dallas, TX. From emergency lockouts to advanced security installations, our skilled technicians deliver prompt, reliable, and affordable solutions for your home, car, or business."
+  },
+  "services": [
+    {
+      "icon": "01",
+      "title": "Residential Locksmith",
+      "shortDescription": "Home lockout, rekeying, and lock installation services to keep your family safe.",
+      "longDescription": "Protect what matters most with our comprehensive residential locksmith services. We handle everything from emergency lockouts to upgrading your home's security with smart locks and deadbolts. Our technicians are trained to work with all types of residential locks, ensuring minimal disruption to your day.",
+      "benefits": [
+        "24/7 emergency lockout assistance",
+        "Rekeying and lock replacement",
+        "Smart lock installation and integration"
+      ],
+      "process": [
+        {
+          "title": "Assessment",
+          "description": "We evaluate your current locks and security needs, discussing options that fit your lifestyle and budget."
+        },
+        {
+          "title": "Installation or Repair",
+          "description": "Our technician performs the work efficiently, using high-quality parts and tools to ensure long-lasting results."
+        },
+        {
+          "title": "Final Check & Guidance",
+          "description": "We test everything, provide maintenance tips, and answer any questions to ensure your complete satisfaction."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How much does it cost to rekey a house?",
+          "answer": "Rekeying costs vary depending on the number of locks. On average, it ranges from $15 to $30 per lock. We provide a free estimate before starting."
+        },
+        {
+          "question": "Can you install a smart lock on any door?",
+          "answer": "Most standard doors can accommodate smart locks. Our technicians will assess your door and recommend compatible options."
+        }
+      ],
+      "slug": "residential-locksmith"
+    },
+    {
+      "icon": "02",
+      "title": "Commercial Locksmith",
+      "shortDescription": "Security solutions for businesses, including master key systems and access control.",
+      "longDescription": "Secure your business with our commercial locksmith services. We install and maintain high-security locks, master key systems, and electronic access control for offices, retail stores, warehouses, and more. Our goal is to provide a secure environment for your employees and assets.",
+      "benefits": [
+        "Master key system design and installation",
+        "Access control and keyless entry",
+        "Emergency lockout service for businesses"
+      ],
+      "process": [
+        {
+          "title": "Security Audit",
+          "description": "We conduct a thorough assessment of your property to identify vulnerabilities and recommend the best security solutions."
+        },
+        {
+          "title": "System Installation",
+          "description": "Our team installs your chosen system with minimal disruption to your operations, ensuring everything works seamlessly."
+        },
+        {
+          "title": "Training & Support",
+          "description": "We train your staff on how to use the new system and provide ongoing maintenance and support."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "What is a master key system?",
+          "answer": "A master key system allows one key to open multiple locks while individual keys open specific locks. It's ideal for businesses that need controlled access."
+        },
+        {
+          "question": "Do you offer emergency commercial locksmith services?",
+          "answer": "Yes, we provide 24/7 emergency services for businesses, including lockouts and broken key extractions."
+        }
+      ],
+      "slug": "commercial-locksmith"
+    },
+    {
+      "icon": "03",
+      "title": "Automotive Locksmith",
+      "shortDescription": "Car lockout, key replacement, and transponder key programming.",
+      "longDescription": "Locked out of your car or lost your keys? Our automotive locksmiths can help. We specialize in unlocking cars, replacing lost keys, and programming transponder keys and fobs for all makes and models. We also repair ignition switches and extract broken keys.",
+      "benefits": [
+        "Quick car lockout resolution",
+        "Key duplication and replacement",
+        "Transponder key and fob programming"
+      ],
+      "process": [
+        {
+          "title": "Vehicle Assessment",
+          "description": "We identify your vehicle's make, model, and year to determine the best method for key cutting or programming."
+        },
+        {
+          "title": "Key Generation",
+          "description": "Using advanced equipment, we cut and program a new key or fob on-site."
+        },
+        {
+          "title": "Testing & Handover",
+          "description": "We test the new key to ensure it works perfectly and provide any additional tips for your vehicle's security."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Can you make a key for my car if I don't have the original?",
+          "answer": "Yes, we can create a new key using your vehicle's VIN or by decoding the lock. Contact us for details."
+        },
+        {
+          "question": "How much does it cost to program a transponder key?",
+          "answer": "Prices vary by vehicle. On average, programming costs between $50 and $150. We provide a free quote."
+        }
+      ],
+      "slug": "automotive-locksmith"
+    },
+    {
+      "icon": "04",
+      "title": "Emergency Locksmith",
+      "shortDescription": "24/7 emergency lockout service for home, car, and business.",
+      "longDescription": "When you're locked out or facing a security emergency, Golden's Keys is here to help. Our emergency locksmiths are available 24 hours a day, 7 days a week, including holidays. We respond quickly to get you back inside safely, using non-destructive techniques whenever possible.",
+      "benefits": [
+        "24/7 availability, including holidays",
+        "30-minute average response time",
+        "Non-destructive entry methods"
+      ],
+      "process": [
+        {
+          "title": "Call Dispatch",
+          "description": "Call our emergency line, and we'll send the nearest technician to your location immediately."
+        },
+        {
+          "title": "Arrival & Assessment",
+          "description": "Our technician arrives promptly, assesses the situation, and explains the best approach."
+        },
+        {
+          "title": "Resolution",
+          "description": "We resolve the lockout efficiently, ensuring no damage to your property."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Do you charge extra for emergency calls?",
+          "answer": "We offer competitive rates for emergency services with no hidden fees. We'll provide an upfront estimate."
+        },
+        {
+          "question": "What areas do you cover for emergency service?",
+          "answer": "We serve all of Dallas and surrounding areas, including Garland, Mesquite, and Richardson."
+        }
+      ],
+      "slug": "emergency-locksmith"
+    }
+  ],
+  "about": {
+    "headline": "Over 40 Years of Locksmith Excellence in Dallas",
+    "mission": "To provide dependable, affordable, and professional locksmith services that keep our community safe and secure.",
+    "story": [
+      "Golden's Keys was founded in 1985 by John Golden, a master locksmith with a passion for security and a commitment to customer service. Starting from a small shop on Garland Road, John built a reputation for honesty, reliability, and skilled craftsmanship. Over the years, the business grew through word-of-mouth as satisfied customers recommended our services to friends and neighbors.",
+      "Today, Golden's Keys continues John's legacy under the leadership of his daughter, Lisa Golden. We've expanded our team and services, but our core values remain the same: fast response, fair pricing, and quality work. Whether it's a simple key duplication or a complex security system installation, we treat every job with the same dedication and care."
+    ],
+    "highlight": {
+      "stat": "40+",
+      "label": "Years of Trusted Service"
+    },
+    "coreValues": [
+      {
+        "title": "Integrity",
+        "description": "We believe in honest communication and transparent pricing. No surprises, no shortcuts."
+      },
+      {
+        "title": "Reliability",
+        "description": "When you call us, we show up on time and get the job done right the first time."
+      },
+      {
+        "title": "Community",
+        "description": "We're proud to be a local, family-owned business that supports our Dallas neighbors."
+      },
+      {
+        "title": "Innovation",
+        "description": "We stay up-to-date with the latest security technology to offer you the best solutions."
+      }
+    ]
+  },
+  "contact": {
+    "headline": "Get in Touch with Golden's Keys",
+    "subheadline": "Have a question or need a quote? Fill out the form below or give us a call. We're here to help.",
+    "primaryCta": "Call (214) 324-4747",
+    "formCta": "Send Message",
+    "serviceAreas": [
+      "Dallas",
+      "Garland",
+      "Mesquite",
+      "Richardson",
+      "Addison",
+      "Carrollton",
+      "Plano",
+      "Irving"
+    ]
+  },
+  "social_proof": {
+    "rating": 4.7,
+    "reviews": null
+  },
+  "meta": {
+    "niche": "Locksmith",
+    "generated_by": "deepseek",
+    "review_snippets_used": 0
+  },
+  "phone_href": "tel:2143244747",
+  "current_year": 2026,
+  "header_cta": "Call Now"
+}
